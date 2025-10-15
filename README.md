@@ -52,12 +52,3 @@ MCA Insights Engine is a Python application designed to consolidate, track, enri
    The `log.csv` data feeds into the AI Summary Generator to produce high-level reports on corporate activity.
 
 ---
-
-mca-insights-engine/
-├── app.py                # Streamlit dashboard
-├── mca_master.csv        # Raw company master data
-├── Enriched.csv          # Enriched data
-├── log.csv               # Change logs for AI summaries
-├── requirements.txt      # Python dependencies
-└── README.md
-
