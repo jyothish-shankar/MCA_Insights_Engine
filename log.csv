@@ -1,0 +1,76 @@
+CIN,Change_Type,Field_Changed,Old_Value,New_Value,Date
+U45201MH2000PTC129538,New Incorporation,-,-,New company record,2025-10-13
+U93090KA2017PTC107596,New Incorporation,-,-,New company record,2025-10-13
+U21001GJ2023PTC141114,New Incorporation,-,-,New company record,2025-10-13
+U30007MH1995PLC093813,New Incorporation,-,-,New company record,2025-10-13
+U74900PN2011PTC140433,New Incorporation,-,-,New company record,2025-10-13
+U82990GJ2025PTC159632,New Incorporation,-,-,New company record,2025-10-13
+U74900DL1995PTC068372,New Incorporation,-,-,New company record,2025-10-13
+U24231PN2021PTC202568,New Incorporation,-,-,New company record,2025-10-13
+U74920DL2022PTC397739,New Incorporation,-,-,New company record,2025-10-13
+U74900TN2014PTC096945,New Incorporation,-,-,New company record,2025-10-13
+U74899DL1991PTC045280,Capital Modification,authorized_capital,5000000.0,7500000.0,2025-10-13
+U15142MH1996PLC224176,Status Change,status,Amalgamated,Strike Off,2025-10-13
+U74909MH2025PTC440797,Status Change,status,Active,Strike Off,2025-10-13
+U52393GJ2010PTC063133,Status Change,status,Active,Strike Off,2025-10-13
+U45209MH2012PTC237828,Status Change,status,Active,Strike Off,2025-10-13
+U74999MH2014PTC252218,Capital Modification,paidup_capital,100000.0,200000.0,2025-10-13
+U72900MH2008PTC182980,Capital Modification,authorized_capital,500000.0,750000.0,2025-10-13
+U85300DL2022NPL397960,Capital Modification,authorized_capital,100000.0,150000.0,2025-10-13
+U70102DL2014PTC273468,Capital Modification,paidup_capital,100000.0,200000.0,2025-10-13
+U63000GJ2016PTC092986,Capital Modification,authorized_capital,100000.0,150000.0,2025-10-13
+U92111TN2004PTC052694,Capital Modification,paidup_capital,100000.0,200000.0,2025-10-13
+U80904DL2021PTC389989,Capital Modification,authorized_capital,100000.0,150000.0,2025-10-13
+U24290GJ2021PTC126851,Status Change,status,Active,Strike Off,2025-10-13
+U47521MH2023PTC411589,Capital Modification,paidup_capital,100000.0,200000.0,2025-10-13
+U01119TN2021PTC141467,Capital Modification,authorized_capital,1500000.0,2250000.0,2025-10-13
+U62200DL2011PTC216080,Capital Modification,authorized_capital,100000.0,150000.0,2025-10-13
+U46493MH2024PTC416712,Capital Modification,authorized_capital,100000.0,150000.0,2025-10-13
+U51100MH2013PTC244837,Capital Modification,paidup_capital,100000.0,200000.0,2025-10-13
+U15137MH2022PTC394031,Status Change,status,Active,Strike Off,2025-10-13
+U05000TN2012PTC088650,Capital Modification,paidup_capital,100000.0,200000.0,2025-10-13
+U30200MH1999PTC121814,Capital Modification,authorized_capital,500000.0,750000.0,2025-10-13
+U62099MH2024PTC423387,Status Change,status,Active,Strike Off,2025-10-13
+U74999KA2020PTC136226,Capital Modification,authorized_capital,1000000.0,1500000.0,2025-10-13
+U24110GJ1988PTC082475,Capital Modification,paidup_capital,500000.0,1000000.0,2025-10-13
+U15430GJ2020PTC114491,Capital Modification,paidup_capital,100000.0,200000.0,2025-10-13
+U85110KA1945SGC000367,Capital Modification,authorized_capital,100000000.0,150000000.0,2025-10-13
+U31909PN2022PTC213795,Capital Modification,authorized_capital,500000.0,750000.0,2025-10-13
+U74999PN2016PTC166104,Status Change,status,Active,Strike Off,2025-10-13
+U14101GJ2023PTC145048,Status Change,status,Active,Strike Off,2025-10-13
+U72900MH2021PTC354547,Capital Modification,authorized_capital,100000.0,150000.0,2025-10-13
+U72200KA2014PTC077718,Capital Modification,authorized_capital,100000.0,150000.0,2025-10-13
+U64100KA2017PTC099042,Status Change,status,Strike Off,Active,2025-10-14
+U50100GJ2017PTC098476,Capital Modification,paidup_capital,1100000.0,1430000.0,2025-10-14
+U74900GJ2007PLC052180,Capital Modification,paidup_capital,1252000.0,1627600.0,2025-10-14
+U85120DL2006PTC145824,Capital Modification,authorized_capital,100000.0,80000.0,2025-10-14
+U52393GJ2010PTC063133,Capital Modification,paidup_capital,100000.0,130000.0,2025-10-14
+U31909MH2005PTC155398,Status Change,status,Strike Off,Active,2025-10-14
+U24246MH1996PTC099755,Capital Modification,authorized_capital,500000.0,400000.0,2025-10-14
+U50400TN2012PTC087488,Capital Modification,authorized_capital,30000000.0,24000000.0,2025-10-14
+U74999MH2018FTC312485,Capital Modification,paidup_capital,5902230.0,7672899.0,2025-10-14
+U73100MH2012PTC230864,Capital Modification,paidup_capital,100000.0,130000.0,2025-10-14
+U32100KA1997PTC022518,Capital Modification,authorized_capital,1000000.0,800000.0,2025-10-14
+U72900KA2011PTC059207,Status Change,status,Strike Off,Active,2025-10-14
+U70109KA2022PTC160921,Capital Modification,authorized_capital,1000000.0,800000.0,2025-10-14
+U55101DL2005PTC140912,Status Change,status,Strike Off,Active,2025-10-14
+U74210DL1991PLC042569,Capital Modification,authorized_capital,500000000.0,400000000.0,2025-10-14
+U70100MH2004PTC146456,Capital Modification,authorized_capital,500000.0,400000.0,2025-10-14
+U25209MH1995PTC092074,Capital Modification,authorized_capital,300000.0,240000.0,2025-10-14
+U72200KA2000PTC026702,Capital Modification,authorized_capital,500000.0,400000.0,2025-10-14
+U17120GJ1990PTC013647,Status Change,status,Strike Off,Active,2025-10-14
+U74999GJ2017PTC099858,Status Change,status,Strike Off,Active,2025-10-14
+U29253MH2015PTC269486,Capital Modification,paidup_capital,4200000.0,5460000.0,2025-10-14
+U72200DL2005PTC134386,Capital Modification,authorized_capital,100000.0,80000.0,2025-10-14
+U51909DL2010PTC201764,Status Change,status,Strike Off,Active,2025-10-14
+U24230MH2002PLC134889,Status Change,status,Strike Off,Active,2025-10-14
+U80903PN2014PTC152294,Status Change,status,Strike Off,Active,2025-10-14
+U01100GJ2022PTC137426,Capital Modification,authorized_capital,1500000.0,1200000.0,2025-10-14
+U46497GJ2024PTC149234,Capital Modification,paidup_capital,100000.0,130000.0,2025-10-14
+U99999MH1964PTC013030,Status Change,status,Strike Off,Active,2025-10-14
+U05000MH1993PTC075498,Capital Modification,paidup_capital,300.0,390.0,2025-10-14
+U70101MH2011PTC219358,Capital Modification,authorized_capital,100000.0,80000.0,2025-10-14
+U70102DL2013PTC247247,Status Change,status,Strike Off,Active,2025-10-14
+U52399PN2011PTC138650,Status Change,status,Strike Off,Active,2025-10-14
+U49231DL2023PTC421428,Capital Modification,authorized_capital,100000.0,80000.0,2025-10-14
+U99999MH1986PTC038805,Capital Modification,authorized_capital,50000.0,40000.0,2025-10-14
